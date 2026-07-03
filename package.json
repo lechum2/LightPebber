@@ -1,0 +1,28 @@
+{
+    "name": "LightPebber",
+    "author": "lechum2@gmail.com",
+    "version": "1.0.0",
+    "keywords": [
+        "pebble-app"
+    ],
+    "private": true,
+    "dependencies": {},
+    "pebble": {
+        "displayName": "LightPebber",
+        "uuid": "5822c986-6322-42b1-9227-fa5d109a4515",
+        "sdkVersion": "3",
+        "enableMultiJS": true,
+        "targetPlatforms": [
+            "emery"
+        ],
+        "watchapp": {
+            "watchface": false
+        },
+        "messageKeys": [
+            "dummy"
+        ],
+        "resources": {
+            "media": []
+        }
+    }
+}
